@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hour: 2019-10-02 12:06:22
+  timezone: 
+
+two:
+  hour: 2019-10-02 12:06:22
+  timezone: 
